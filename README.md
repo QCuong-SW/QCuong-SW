@@ -51,18 +51,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,python&perline=3&theme=dark" />
 </p>
 
-
-### 🏆 Achievement Board
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-Year%202-00F5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%26%20Qt-7F00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Desktop-App%20Builder-FF0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Game-Experimenter-FFD000?style=for-the-badge"/>
-</p>
-
-
-
 ### 💬 Quote
 
 <p align="center">
