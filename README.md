@@ -53,21 +53,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,python&perline=3&theme=dark" />
 </p>
 
-### 🧩 Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,raylib&perline=2&theme=dark" />
-  <img src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_256x256.png" width="45" />
-</p>
-
-### 🗄 Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
-
-### 🛠 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&perline=4&theme=dark" />
-</p>
 
 ## 🏆 Achievement Board
 
