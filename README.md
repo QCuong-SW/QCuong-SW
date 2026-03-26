@@ -29,7 +29,7 @@
 
 ---
 
-## 🌐 Connect
+### 🌐 Connect
 
 <p align="center">
   <a href="https://www.facebook.com/cuongquang.2006">
@@ -46,15 +46,13 @@
 </p>
 
 
-# 💻 Tech Stack
-
 ### 🚀 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python&perline=3&theme=dark" />
 </p>
 
 
-## 🏆 Achievement Board
+### 🏆 Achievement Board
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Year%202-00F5FF?style=for-the-badge"/>
@@ -65,7 +63,7 @@
 
 
 
-## 💬 Quote
+### 💬 Quote
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:4FC3F7,100:81D4FA&text=%22NO%20PAIN%20-%20NO%20GAIN%22%20%E2%80%94%20Year%202%20Developer&fontSize=24&fontColor=8A2BE2&stroke=4B0082&strokeWidth=2"/>
@@ -97,7 +95,7 @@
 
 ---
 
-# 🏆 Academic Achievement Board
+### 🏆 Academic Achievement Board
 
 <p align="center">
 
