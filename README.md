@@ -51,37 +51,10 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,python&perline=3&theme=dark" />
 </p>
 
-### 💬 Quote
-
+### 🌙 My vibe
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=0:4FC3F7,100:81D4FA&text=%22NO%20PAIN%20-%20NO%20GAIN%22%20%E2%80%94%20Year%202%20Developer&fontSize=24&fontColor=8A2BE2&stroke=4B0082&strokeWidth=2"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
-
-<!-- RGB LED BOTTOM -->
-<svg width="100%" height="14" viewBox="0 0 1000 14" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="rgbBottom" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF0000">
-        <animate attributeName="stop-color"
-          values="#FF0000;#FFD000;#00F5FF;#7F00FF;#FF0000"
-          dur="4s"
-          repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#FFD000">
-        <animate attributeName="stop-color"
-          values="#FFD000;#00F5FF;#7F00FF;#FF0000;#FFD000"
-          dur="4s"
-          repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="1000" height="14" fill="url(#rgbBottom)" rx="8"
-        style="filter: drop-shadow(0 0 8px #FF0000);" />
-</svg>
-
-
-
----
 
 ### 🏆 Academic Achievement Board
 
