@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=300&color=FFFFFF&center=true&vCenter=true&width=350&lines=loading.(20%);loading..(50%);loading...(99%)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=300&color=blue&center=true&vCenter=true&width=350&lines=loading.(20%);loading..(50%);loading...(99%)" />
 </p>
 
 ### 🌙 My vibe
