@@ -46,7 +46,7 @@
 </p>
 
 
-### 🚀 Languages
+### 🗿 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python&perline=3&theme=dark" />
 </p>
