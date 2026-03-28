@@ -58,5 +58,14 @@
 
 
 
+## ⚙️ Backend Journey
+
+```cpp
+while (alive) {
+    learn("backend", "nodejs", "database", "cloud");
+    build("desktop_app", "web_app", "mini_chatbot");
+    improve();
+}
+
 
 
