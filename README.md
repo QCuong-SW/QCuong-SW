@@ -45,10 +45,20 @@
   </a>
 </p>
 
-
 ### 🗿 Languages I am proficient in
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python&perline=3&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python&perline=2&theme=dark" />
+</p>
+
+
+### 🚀 Currently learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs&perline=5&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=300&color=FFFFFF&center=true&vCenter=true&width=350&lines=loading.(20%);loading..(50%);loading...(99%)" />
 </p>
 
 ### 🌙 My vibe
