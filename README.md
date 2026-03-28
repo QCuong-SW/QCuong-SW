@@ -29,7 +29,7 @@
 
 ---
 
-### 🌐 Connect
+### 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.facebook.com/cuongquang.2006">
@@ -46,7 +46,7 @@
 </p>
 
 
-### 🗿 Languages
+### 🗿 Languages I am proficient in
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python&perline=3&theme=dark" />
 </p>
@@ -56,23 +56,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
-### 🏆 Academic Achievement Board
 
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Completed-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Completed-5C2D91?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/C%2B%2B%20Programming-Completed-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Python%20Programming-Completed-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Database%20Fundamentals-Completed-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Computer%20Networks-Completed-FF6F00?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</p>
 
 
 
