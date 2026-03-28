@@ -74,7 +74,7 @@
 while (alive) {
     learn("backend", "nodejs", "database", "cloud");
     build("desktop_app", "web_app", "mini_chatbot");
-    improve();
+    improve("code_quality", "system_design", "problem_solving");
 }
 
 
