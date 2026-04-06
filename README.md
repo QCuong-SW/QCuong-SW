@@ -20,8 +20,7 @@
         style="filter: drop-shadow(0 0 8px #00F5FF);" />
 </svg>
 
-<!-- HEADER WAVE -->
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Cunnekba%40&section=footer&fontAlignY=64&fontAlign=50&animation=scaleIn&cachebust=1)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00FF87,100:60EFFF&text=Khô+gà+anh+tày+ngon+wa&fontAlignY=55&fontSize=40&animation=fadeIn&fontColor=ffffff)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F727CE&center=true&vCenter=true&width=600&lines=Newbie+Developer;Learning+Everyday" />
