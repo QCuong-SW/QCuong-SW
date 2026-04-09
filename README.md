@@ -26,7 +26,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F727CE&center=true&vCenter=true&width=600&lines=Newbie+Developer;Learning+Everyday" />
 </p>
 
----
+
 
 ### 🌐 Connect with me
 
