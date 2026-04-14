@@ -53,7 +53,7 @@
 ### 🚀 Currently learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,react,docker&perline=7&theme=dark" />
 </p>
 
 <p align="center">
