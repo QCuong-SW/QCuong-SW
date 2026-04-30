@@ -20,7 +20,7 @@
         style="filter: drop-shadow(0 0 8px #00F5FF);" />
 </svg>
 
-![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00FF87,100:60EFFF&text=Đi+1m+thấy+5+cái+web&fontAlignY=55&fontSize=30&animation=fadeIn&fontColor=ffffff)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00FF87,100:60EFFF&text=ước+mơ+du+học+ấn+độ+không+còn+xa&fontAlignY=55&fontSize=30&animation=fadeIn&fontColor=ffffff)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F727CE&center=true&vCenter=true&width=600&lines=Newbie+Developer;Learning+Everyday" />
