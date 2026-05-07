@@ -1,7 +1,6 @@
-
 ### Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python&perline=2&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,python&perline=3&theme=dark" />
 </p>
 
 ### Learning
