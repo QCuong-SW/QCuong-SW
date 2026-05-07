@@ -24,7 +24,7 @@
 const me = {
     status: "loading...",
     role:   "IT Student",
-    learning:  ["JavaScript", "React", "Tailwind", "Node.js", "Docker"],
+    learning:  ["JS/CSS/HTML", "React", "Tailwind", "Node.js", "Docker"],
     improving: true
 };
 
