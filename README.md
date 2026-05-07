@@ -1,10 +1,10 @@
 
-### 🗿 Languages I am proficient in
+### 🗿 Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python&perline=2&theme=dark" />
 </p>
 
-### 🚀 Currently learning
+### 🚀 Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,nodejs,react,docker&perline=8&theme=dark" />
