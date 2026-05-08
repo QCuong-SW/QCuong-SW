@@ -33,7 +33,7 @@
 const me = {
     status: "loading...",
     role:   "IT Student",
-    learning:  ["JS/CSS/HTML", "React", "Tailwind", "Node.js", "Docker"],
+    learning:  ["Backend with NodeJS", "PostgreSQL database"],
     improving: true
 };
 
