@@ -31,7 +31,7 @@
 
 ```cpp
 const me = {
-    status: "loading...",
+    status: "Consistent...",
     role:   "IT Student",
     learning:  ["Backend with NodeJS", "PostgreSQL database"],
     improving: true
