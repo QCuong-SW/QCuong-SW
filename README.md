@@ -6,7 +6,7 @@
 ### Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,react,mongodb,postgres,docker&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,tailwind,react,nodejs,express,mongodb,postgres,docker&perline=10&theme=dark" />
 </p>
 
 <p align="center">
