@@ -31,9 +31,10 @@
 
 ```cpp
 const me = {
-    status: "Consistent...",
-    role:   "IT Student",
-    learning:  ["Backend with NodeJS", "PostgreSQL database"],
+    role: "IT Student",
+    progress:
+    {
+        "18/05/2026": ["Backend basic with Nodejs", "PostgreSQL basic"]
+    },
     improving: true
 };
-
