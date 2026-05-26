@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=300&color=blue&center=true&vCenter=true&width=350&lines=loading.(20%);loading..(50%);loading...(99%)" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Cun</h1>
+<!-- <h1 align="center">Hi 👋, I'm Cun</h1>
 
 <p align="center">
   Newbie Developer
@@ -24,6 +24,17 @@
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     width="600"
     style="border-radius:18px;"
+  />
+</p> -->
+
+### Main reason my contributions disappeared
+#### `(definitely not my fault 😭)`
+
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="700"
   />
 </p>
 
@@ -38,3 +49,6 @@ const me = {
     },
     improving: true
 };
+```
+
+
