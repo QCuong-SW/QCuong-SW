@@ -45,7 +45,8 @@ const me = {
     role: "IT Student",
     progress:
     {
-        "18/05/2026": ["Backend basic with Nodejs", "PostgreSQL basic"]
+        "18/05/2026": ["Backend basic with Nodejs", "PostgreSQL basic"],
+        "20/05/2026": ["Java core", "Object-Oriented Programming in Java"]
     },
     improving: true
 };
