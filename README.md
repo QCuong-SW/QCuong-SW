@@ -46,7 +46,7 @@ const me = {
     progress:
     {
         "18/05/2026": ["Backend basic with Nodejs", "PostgreSQL basic"],
-        "20/05/2026": ["Java core", "Object-Oriented Programming in Java"]
+        "20/05/2026": ["Java core basic", "Object-Oriented Programming in Java basic"]
     },
     improving: true
 };
