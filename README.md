@@ -43,12 +43,11 @@
 
 ```cpp
 const me = {
-    role: "IT Student",
-    learned:
-    {
-        "18/05/2026": ["Backend basic with Nodejs", "PostgreSQL basic"],
-        "20/05/2026": ["Java core basic", "Object-Oriented Programming in Java basic"]
-    },
+    role : "IT Student",
+    learned : {
+                "18/05/2026": ["Backend basic with Nodejs", "PostgreSQL basic"],
+                "20/05/2026": ["Java core basic", "Object-Oriented Programming in Java basic"]
+              },
     improving: true
 };
 ```
