@@ -48,7 +48,7 @@ const me = {
                 "01/12/2025": ["Built first app with Qt framework"],
                 "18/05/2026": ["Backend basic with Nodejs", "PostgreSQL basic"],
                 "20/05/2026": ["Java core basic", "Object-Oriented Programming in Java basic"],
-                "07/06/2026": ["Backend basic with Spring Boot", "JPA basic"]
+                "01/06/2026": ["Backend basic with Spring Boot", "JPA basic"]
               },
     improving: true
 };
