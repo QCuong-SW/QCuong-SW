@@ -45,10 +45,10 @@
 const me = {
     role : "IT Student",
     learned : {
-                "01/12/2025": ["Built first app with Qt framework"],
-                "18/05/2026": ["Backend basic with Nodejs", "PostgreSQL basic"],
-                "20/05/2026": ["Java core basic", "Object-Oriented Programming in Java basic"],
-                "01/06/2026": ["Backend basic with Spring Boot", "JPA basic"]
+                "01/12/2025": ["Built app with Qt framework"],
+                "18/05/2026": ["Backend Nodejs", "pgSQL basic"],
+                "20/05/2026": ["Java core", "OOP in Java basic"],
+                "01/06/2026": ["Backend with Spring Boot", "JPA"]
               },
     improving: true
 };
