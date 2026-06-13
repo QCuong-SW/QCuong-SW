@@ -1,7 +1,7 @@
 ### Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,cpp,python,js,nodejs,express,postgres&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,qt,nodejs,express,postgres&perline=7&theme=dark" />
 </p>
 
 ### Learning
