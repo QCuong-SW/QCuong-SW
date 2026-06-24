@@ -1,13 +1,14 @@
 ### Skills
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,python,qt,nodejs,express,postgres&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,qt,nodejs,express,postgres&perline=12&theme=dark" />
 </p>
 
 ### Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,tailwind,react,mongodb,docker&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,tailwind,react,mongodb,docker&perline=8&theme=dark" />
 </p>
 
 <p align="center">
