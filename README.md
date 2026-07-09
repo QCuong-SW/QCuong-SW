@@ -55,9 +55,6 @@ const me = {
 };
 ```
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/cc/57/cc/cc57ccaaabd8ea01371f8c4fd7bc5791.gif" width="1010" style="border-radius:5px"/>
-</p>
 
 
 
