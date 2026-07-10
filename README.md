@@ -8,7 +8,7 @@
 ### Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,typescript,tailwind,react,mongodb,docker,linux,redis,kafka,kubernetes&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,typescript,tailwind,react,mongodb,linux,docker,redis,kafka,kubernetes&perline=8&theme=dark" />
 </p>
 
 <p align="center">
