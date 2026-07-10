@@ -2,13 +2,13 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,qt,nodejs,express,postgres,git&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,python,nodejs,express,postgres,git,qt&perline=12&theme=dark" />
 </p>
 
 ### Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,typescript,tailwind,react,mongodb,docker,linux,redis,kafka,kubernetes&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,typescript,tailwind,react,mongodb,docker,linux,redis,kafka,kubernetes&perline=8&theme=dark" />
 </p>
 
 <p align="center">
