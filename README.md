@@ -2,13 +2,14 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,python,nodejs,express,postgres,git,qt&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,tailwind,nodejs,express,postgres,git,qt&perline=12&theme=dark" />
 </p>
+
 
 ### Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,typescript,tailwind,react,mongodb,linux,docker,redis,kafka,kubernetes&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,typescript,react,mongodb,linux,docker,redis,kafka,kubernetes&perline=8&theme=dark" />
 </p>
 
 <p align="center">
@@ -54,7 +55,3 @@ const me = {
     improving: true
 };
 ```
-
-
-
-
