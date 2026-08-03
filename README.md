@@ -2,7 +2,9 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,tailwind,nodejs,express,spring,postgres,git,qt,docker&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,tailwind&perline=8&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,git,qt,docker&perline=8&theme=dark" />
 </p>
 
 
