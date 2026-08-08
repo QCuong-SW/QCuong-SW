@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=300&color=blue&center=true&vCenter=true&width=350&lines=loading.(20%);loading..(50%);loading...(99%)" />
 </p>
 
-### AI Learning
+### AI Development
 
 <p align="center">
 
