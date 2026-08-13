@@ -82,12 +82,15 @@
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="700"
+    width="100%"
   />
 </p>
 
-###  Journey
 
+<details>
+<summary> <h2>Journey</h2> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=300&color=blue&center=true&vCenter=true&width=120&lines=Click_Here!!!" /></summary>
+
+  
 ```cpp
 const me = {
     role : "IT Student",
@@ -100,12 +103,14 @@ const me = {
     improving: true
 };
 ```
+</details>
+
 
 ## GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QCuong-SW&theme=tokyonight" 
-    width="70%"/>
+    width="95%" height="200px"/>
 </p>
 
 ## GitHub Statistics
