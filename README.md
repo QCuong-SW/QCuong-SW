@@ -106,16 +106,21 @@ const me = {
 </details>
 
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QCuong-SW&theme=tokyonight" 
-    width="95%" height="200px"/>
-</p>
-
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QCuong-SW&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QCuong-SW&theme=tokyonight"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="65%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QCuong-SW&theme=tokyonight"
+        width="100%"
+      />
+    </td>
+    <td width="35%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QCuong-SW&theme=tokyonight"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
