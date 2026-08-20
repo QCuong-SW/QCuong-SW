@@ -7,7 +7,7 @@
 ### Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,php,mongodb,linux,redis,kafka,kubernetes&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=linux,nextjs,php,mongodb,redis,kafka,kubernetes&theme=dark&perline=7" />
 </p>
 
 <!-- <p align="center">
