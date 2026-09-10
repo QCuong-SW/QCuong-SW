@@ -1,7 +1,7 @@
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,nextjs,react,tailwind,nodejs,nestjs,express,spring,mongodb,postgres,redis,git,qt,docker&theme=dark&perline=17" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,nextjs,react,tailwind,nodejs,nestjs,express,spring,mongodb,mysql,postgres,redis,git,qt,docker&theme=dark&perline=17" />
 </p>
 
 ### Learning
@@ -14,10 +14,15 @@
        alt="Wireshark" />
 </p>
 
+### AI Skills
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python" width="42" height="42" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/fastapi" width="42" height="42" alt="FastAPI"/>
+</p>
+
 ### AI Learning
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python" width="42" height="42" alt="Python"/>
   <img src="https://cdn.simpleicons.org/numpy" width="42" height="42" alt="NumPy"/>
   <img src="https://cdn.simpleicons.org/pandas" width="42" height="42" alt="Pandas"/>
   <img src="https://cdn.simpleicons.org/scikitlearn" width="42" height="42" alt="Scikit-learn"/>
@@ -26,7 +31,6 @@
   <img src="https://cdn.simpleicons.org/vllm" width="42" height="42" alt="vLLM"/>
   <img src="https://cdn.simpleicons.org/langchain" width="42" height="42" alt="LangChain"/>
   <img src="https://cdn.simpleicons.org/qdrant" width="42" height="42" alt="Qdrant"/>
-  <img src="https://cdn.simpleicons.org/fastapi" width="42" height="42" alt="FastAPI"/>
   <img src="https://cdn.simpleicons.org/docker" width="42" height="42" alt="Docker"/>
   <img src="https://cdn.simpleicons.org/weightsandbiases" width="42" height="42" alt="Weights & Biases"/>
   <img src="https://cdn.simpleicons.org/transformers" width="42" height="42" alt="Transformers"/>
