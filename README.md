@@ -1,13 +1,13 @@
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,nextjs,react,tailwind,nodejs,nestjs,express,spring,postgres,redis,git,qt,docker&theme=dark&perline=17" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,nextjs,react,tailwind,nodejs,nestjs,express,spring,mongodb,postgres,redis,git,qt,docker&theme=dark&perline=17" />
 </p>
 
 ### Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,php,mongodb,kafka,kubernetes&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=linux,php,kafka,kubernetes&theme=dark&perline=7" />
   <img src="https://images.icon-icons.com/1508/PNG/512/wireshark_104082.png"
        width="48"
        height="48"
