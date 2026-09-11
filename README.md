@@ -1,10 +1,10 @@
-### Skills
+### Software Engineering Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,nextjs,react,tailwind,nodejs,nestjs,express,spring,mongodb,mysql,postgres,redis,git,qt,docker&theme=dark&perline=17" />
 </p>
 
-### Learning
+### Currently Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,php,kafka,kubernetes&theme=dark&perline=7" />
@@ -20,7 +20,7 @@
   <img src="https://cdn.simpleicons.org/fastapi" width="42" height="42" alt="FastAPI"/>
 </p>
 
-### AI Learning
+### Currently Learning — AI
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/numpy" width="42" height="42" alt="NumPy"/>
