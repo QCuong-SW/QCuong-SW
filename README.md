@@ -1,3 +1,17 @@
+# Hello, I'm Quang Cuong 👋
+
+
+### About Me
+
+I'm passionate about creating, building, and shipping things — especially in Software Engineering and AI.
+
+I enjoy constantly learning, experimenting with new technologies, and turning ideas into real products.
+
+Outside of tech, I'm into swimming 🏊 and calisthenics 💪.
+
+
+---
+
 ### Software Engineering Skills
 
 <p align="left">
