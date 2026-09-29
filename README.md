@@ -21,7 +21,7 @@ Outside of tech, I'm into swimming 🏊 and calisthenics 💪.
 ### Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,aws,php,kafka,kubernetes&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=linux,nginx,aws,firebase,googlecloud,kafka,kubernetes&theme=dark&perline=7" />
   <img src="https://images.icon-icons.com/1508/PNG/512/wireshark_104082.png"
        width="48"
        height="48"
