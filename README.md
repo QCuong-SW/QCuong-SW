@@ -45,7 +45,6 @@ Outside of tech, I'm into swimming 🏊 and calisthenics 💪.
   <img src="https://cdn.simpleicons.org/vllm" width="42" height="42" alt="vLLM"/>
   <img src="https://cdn.simpleicons.org/langchain" width="42" height="42" alt="LangChain"/>
   <img src="https://cdn.simpleicons.org/qdrant" width="42" height="42" alt="Qdrant"/>
-  <img src="https://cdn.simpleicons.org/docker" width="42" height="42" alt="Docker"/>
   <img src="https://cdn.simpleicons.org/weightsandbiases" width="42" height="42" alt="Weights & Biases"/>
   <img src="https://cdn.simpleicons.org/transformers" width="42" height="42" alt="Transformers"/>
   <img src="https://cdn.simpleicons.org/peft" width="42" height="42" alt="PEFT"/>
