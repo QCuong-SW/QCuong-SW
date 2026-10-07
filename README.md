@@ -21,9 +21,9 @@ Outside of tech, I'm into swimming 🏊 and calisthenics 💪.
 ### Currently Learning
 
 <p align="left">
-  <img src="https://static.cdnlogo.com/logos/r/18/react-native.svg" width="48" height="48" alt="React Native" />
-  <img src="https://skillicons.dev/icons?i=aws,firebase,googlecloud,kafka,kubernetes&theme=dark&perline=5" width="240" />
+  <img src="https://skillicons.dev/icons?i=githubactions,aws,firebase,googlecloud,kafka,kubernetes&theme=dark&perline=10" width="300" />
   <img src="https://images.icon-icons.com/1508/PNG/512/wireshark_104082.png" width="48" height="48" alt="Wireshark" />
+  <img src="https://static.cdnlogo.com/logos/r/18/react-native.svg" width="48" height="48" alt="React Native" />
 </p>
 
 
