@@ -15,13 +15,13 @@ Outside of tech, I'm into swimming 🏊 and calisthenics 💪.
 ### Software Engineering Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,nextjs,react,tailwind,nodejs,nestjs,express,spring,mongodb,mysql,postgres,redis,git,github,qt,docker,linux,nginx&theme=dark&perline=17" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,nextjs,react,tailwind,nodejs,nestjs,express,spring,mongodb,mysql,postgres,redis,git,github,githubactions,qt,docker,linux,nginx&theme=dark&perline=17" />
 </p>
 
 ### Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,githubactions,aws,firebase,googlecloud,kafka,kubernetes&theme=dark&perline=10" width="300" />
+  <img src="https://skillicons.dev/icons?i=bash,aws,firebase,googlecloud,kafka,kubernetes&theme=dark&perline=10" width="300" />
   <img src="https://images.icon-icons.com/1508/PNG/512/wireshark_104082.png" width="37" height="37" alt="Wireshark" />
   <img src="https://static.cdnlogo.com/logos/r/18/react-native.svg" width="37" height="37" alt="React Native" />
 </p>
