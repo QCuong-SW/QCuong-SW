@@ -29,13 +29,12 @@ Outside of tech, I'm into swimming 🏊 and calisthenics 💪.
 <p align="left">
   <img src="https://cdn.simpleicons.org/python" width="42" height="42" alt="Python"/>
   <img src="https://cdn.simpleicons.org/fastapi" width="42" height="42" alt="FastAPI"/>
-</p>
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="42" height="42" alt="NumPy"/></p>
 
 ### Currently Learning — AI
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/numpy" width="42" height="42" alt="NumPy"/>
-  <img src="https://cdn.simpleicons.org/pandas" width="42" height="42" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/pandas/76D7FF" width="42" height="42" alt="Pandas"/>
   <img src="https://cdn.simpleicons.org/scikitlearn" width="42" height="42" alt="Scikit-learn"/>
   <img src="https://cdn.simpleicons.org/pytorch" width="42" height="42" alt="PyTorch"/>
   <img src="https://cdn.simpleicons.org/huggingface" width="42" height="42" alt="Hugging Face"/>
