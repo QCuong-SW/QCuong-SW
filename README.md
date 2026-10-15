@@ -1,52 +1,39 @@
-# Hello, I'm Quang Cuong 👋
+# Hello, I'm Quang Cuong 
 
 
-### About Me
+### About me
 
 I'm passionate about creating, building, and shipping things — especially in Software Engineering and AI.
 
 I enjoy constantly learning, experimenting with new technologies, and turning ideas into real products.
 
-Outside of tech, I'm into swimming 🏊 and calisthenics 💪.
+Outside of tech, I'm into swimming and calisthenics.
 
 
----
 
-### Software Engineering Skills
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Software Engineering Skills</h3>
+      <b>Languages:</b> TypeScript, Python, C++, Java<br/>
+      <b>Frontend:</b> Next.js, React, Tailwind CSS<br/>
+      <b>Backend &amp; DB:</b> NestJS, Spring Boot, PostgreSQL, Redis<br/>
+      <b>DevOps &amp; Tools:</b> Docker, Linux<br/><br/>
+      <b>Learning:</b> AWS, Kafka, Kubernetes
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Skills</h3>
+      <b>Programming:</b> Python<br/>
+      <b>AI API &amp; Deployment:</b> FastAPI<br/>
+      <b>Numerical Computing:</b> NumPy<br/><br/>
+      <b>Currently Learning:</b><br/>
+      Pandas, Scikit-learn, PyTorch, Hugging Face, Transformers, vLLM, PEFT, TRL, bitsandbytes, LangChain, Qdrant, Weights &amp; Biases
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js,html,css,nextjs,react,tailwind,nodejs,nestjs,express,spring,mongodb,mysql,postgres,redis,git,github,githubactions,qt,docker,linux,bash,nginx&theme=dark&perline=17" />
-</p>
-
-### Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kafka,kubernetes&theme=dark&perline=10" width="160" />
-</p>
 
 
-### AI Skills
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python" width="42" height="42" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/fastapi" width="42" height="42" alt="FastAPI"/>
-  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="42" height="42" alt="NumPy"/></p>
-
-### Currently Learning — AI
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/pandas/76D7FF" width="42" height="42" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn" width="42" height="42" alt="Scikit-learn"/>
-  <img src="https://cdn.simpleicons.org/pytorch" width="42" height="42" alt="PyTorch"/>
-  <img src="https://cdn.simpleicons.org/huggingface" width="42" height="42" alt="Hugging Face"/>
-  <img src="https://cdn.simpleicons.org/vllm" width="42" height="42" alt="vLLM"/>
-  <img src="https://cdn.simpleicons.org/langchain" width="42" height="42" alt="LangChain"/>
-  <img src="https://cdn.simpleicons.org/qdrant" width="42" height="42" alt="Qdrant"/>
-  <img src="https://cdn.simpleicons.org/weightsandbiases" width="42" height="42" alt="Weights & Biases"/>
-  <img src="https://cdn.simpleicons.org/transformers" width="42" height="42" alt="Transformers"/>
-  <img src="https://cdn.simpleicons.org/peft" width="42" height="42" alt="PEFT"/>
-  <img src="https://cdn.simpleicons.org/trl" width="42" height="42" alt="TRL"/>
-  <img src="https://cdn.simpleicons.org/bitsandbytes" width="42" height="42" alt="bitsandbytes"/>
-</p>
 
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,nextjs,nestjs,linux,redis,kafka,kubernetes&perline=8&theme=dark" />
@@ -84,7 +71,6 @@ Outside of tech, I'm into swimming 🏊 and calisthenics 💪.
 
 
 <details>
-<summary> <h2>Journey</h2> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=300&color=blue&center=true&vCenter=true&width=120&lines=Click_Here!!!" /></summary>
 
   
 ```cpp
