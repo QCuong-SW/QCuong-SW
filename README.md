@@ -39,10 +39,6 @@ Outside of tech, I'm into swimming and calisthenics.
   <img src="https://skillicons.dev/icons?i=mongodb,nextjs,nestjs,linux,redis,kafka,kubernetes&perline=8&theme=dark" />
 </p> -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=300&color=blue&center=true&vCenter=true&width=350&lines=loading.(20%);loading..(50%);loading...(99%)" />
-</p>
-
 
 <!-- <h1 align="center">Hi 👋, I'm Cun</h1>
 
