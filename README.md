@@ -25,9 +25,9 @@ Outside of tech, I'm into swimming and calisthenics.
       <h3>AI Skills</h3>
       <b>Programming:</b> Python<br/>
       <b>AI API &amp; Deployment:</b> FastAPI<br/>
-      <b>Numerical Computing:</b> NumPy<br/><br/>
+      <b>Numerical Computing:</b> NumPy, Pandas<br/><br/>
       <b>Currently Learning:</b><br/>
-      Pandas, Scikit-learn, PyTorch, Hugging Face, Transformers, vLLM, PEFT, TRL, bitsandbytes, LangChain, Qdrant, Weights &amp; Biases
+      Scikit-learn, PyTorch, Hugging Face, Transformers, vLLM, PEFT, TRL, bitsandbytes, LangChain, Qdrant, Weights &amp; Biases
     </td>
   </tr>
 </table>
