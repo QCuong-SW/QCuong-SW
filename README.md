@@ -27,7 +27,7 @@ Outside of tech, I'm into swimming and calisthenics.
       <b>AI API &amp; Deployment:</b> FastAPI<br/>
       <b>Numerical Computing:</b> NumPy, Pandas<br/><br/>
       <b>Currently Learning:</b><br/>
-      Scikit-learn, PyTorch, Hugging Face, Transformers, vLLM, PEFT, TRL, bitsandbytes, LangChain, Qdrant, Weights &amp; Biases
+        Machine Learning (Scikit-learn) | Deep Learning (PyTorch) | Hugging Face Transformers | LLM Engineering | RAG (LangChain, Qdrant) | Model Fine-tuning (PEFT, TRL) | LLM Inference (vLLM, bitsandbytes) | Experiment Tracking (Weights & Biases)
     </td>
   </tr>
 </table>
